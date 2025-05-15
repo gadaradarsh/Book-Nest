@@ -1,0 +1,23 @@
+{
+    "studentId": 44,
+    "name": "Ms Dhoni",
+    "age": 45,
+    "emailId": "MSD@example.com",
+    "card": {
+        "cardId": 43,
+        "createdDate": "2025-03-26T05:28:59.129+00:00",
+        "updatedDate": "2025-03-26T05:28:59.129+00:00",
+        "cardStatus": true
+    }
+}
+
+
+----For Post Request---
+{
+    "name": "Darsh Gadara",
+    "age": 20,
+    "emailId": "Darsh@gmail.com",
+    "card": {
+        "cardStatus": true
+    }
+}
